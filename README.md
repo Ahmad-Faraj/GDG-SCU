@@ -1,7 +1,7 @@
 # First Steps to Algorithms
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/1bdae723-0756-42bc-bbfe-1270f4787792" alt="animated" width="70%"/>
+  <img src="https://github.com/user-attachments/assets/4db42cf1-7c7d-4245-a4f2-fbbe70f6a0e5" alt="animated" width="50%"/>
 </p>
 
 | Steps | Table of Contents |
