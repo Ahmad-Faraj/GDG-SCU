@@ -6,8 +6,8 @@
 
 | Steps | Table of Contents |
 | :---: | - |
-|  Week10.   | Upcoming |
-|  Week11.   | Upcoming |
-|  Week12.   | Upcoming |
-|  Week13.   | Upcoming |
+|  Week10.   | [Click Here!](https://www.canva.com/design/DAGe2cz5gZI/6myeoec4bIzvPf_CpB3GtQ/view) |
+|  Week11.   | [Click Here!](https://www.canva.com/design/DAGfVVKlo8I/pfJ2kpJtgTgmIK-0kZ-04A/view) |
+|  Week12.   | [Click Here!](https://www.canva.com/design/DAGfrB3tCSU/kvWmhOggTdfomykB7x01fQ/view) |
+|  Week13.   | [Click Here!](https://www.canva.com/design/DAGfroG4_nk/yRDsPgcscty_VwNDilsTJg/view) |
 
