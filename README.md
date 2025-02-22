@@ -1,5 +1,8 @@
+<div align="center">
 
 # First Steps to Algorithms
+
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4db42cf1-7c7d-4245-a4f2-fbbe70f6a0e5" alt="animated" width="50%"/>
